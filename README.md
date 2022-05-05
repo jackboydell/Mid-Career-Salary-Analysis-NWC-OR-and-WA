@@ -1,2 +1,11 @@
 # Mid-Career-Salary-Analysis-NWC-OR-and-WA
-This project involves two parts: database creation (SQL) and targeted analysis (SQL, Python, R) to explore mid-career (10+ years of work experience) salary rankings in the Northwest Conference (NWC) as well as all colleges/universities in Oregon and Washington(WA).. 
+This project involves two parts: database creation (SQL) and targeted analysis (SQL, Python, R) to explore mid-career (10+ years of work experience) salary rankings in the Northwest Conference (NWC) as well as all colleges/universities in Oregon and Washington(WA).
+
+Techniques/Approaches:
+  (SQL): database creation, data manipulation/cleaning (text extraction, realtions, contraints, aggregations, joins), data prepartation/export, analysis
+  (Python): webscraping for data collection, exploratory data analysis, data manipulation, model fitting - sklearn (Lasso Regression predictor)
+  (R): 95% confidence interval creation 
+  
+Data Engineering (DATA 403) - Professor Rembold, Willamette University (Spring 2022)
+
+Team members: Paul McSlarrow
