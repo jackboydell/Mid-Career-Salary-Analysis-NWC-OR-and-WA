@@ -9,6 +9,7 @@ Techniques/Approaches:
 Materials:
   (Final Project - Database.sql): SQL script used to create database and manipulate data ;
   (Final Project - Analysis.sql): SQL script to query answers for various anaysis questions, export CSV files ;
+  (Mid-Career Salary Analysis.ipynb): Python code used for webscraping/data collection, EDA, and anaysis including fitting a Lasso Regression predictor for target variable ;
   (
   
   
