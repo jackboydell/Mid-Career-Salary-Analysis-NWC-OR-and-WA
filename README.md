@@ -2,12 +2,12 @@
 This project involves two parts: database creation (SQL) and targeted analysis (SQL, Python, R) to explore mid-career (10+ years of work experience) salary rankings in the Northwest Conference (NWC) as well as all colleges/universities in Oregon and Washington(WA).
 
 Techniques/Approaches:
-  (SQL): database creation, data manipulation/cleaning (text extraction, realtions, contraints, aggregations, joins), data prepartation/export, analysis
+  (SQL): database creation, data manipulation/cleaning (text extraction, realtions, contraints, aggregations, joins), data prepartation/export, analysis \n
   (Python): webscraping for data collection, exploratory data analysis, data manipulation, model fitting - sklearn (Lasso Regression predictor)
   (R): 95% confidence interval creation 
   
 Materials:
-  (Final Project - Database.sql): SQL script used to create database and manipulate data
+  (Final Project - Database.sql): SQL script used to create database and manipulate data 
   (Final Project - Analysis.sql): SQL script to query answers for various anaysis questions, export CSV files
   (
   
