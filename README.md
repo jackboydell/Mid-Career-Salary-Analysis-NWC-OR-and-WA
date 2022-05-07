@@ -7,8 +7,8 @@ Techniques/Approaches:
   (R): 95% confidence interval creation 
   
 Materials:
-  (Final Project - Database.sql): SQL script used to create database and manipulate data 
-  (Final Project - Analysis.sql): SQL script to query answers for various anaysis questions, export CSV files
+  (Final Project - Database.sql): SQL script used to create database and manipulate data ;
+  (Final Project - Analysis.sql): SQL script to query answers for various anaysis questions, export CSV files ;
   (
   
   
