@@ -6,6 +6,12 @@ Techniques/Approaches:
   (Python): webscraping for data collection, exploratory data analysis, data manipulation, model fitting - sklearn (Lasso Regression predictor)
   (R): 95% confidence interval creation 
   
+Materials:
+  (Final Project - Database.sql): SQL script used to create database and manipulate data
+  (Final Project - Analysis.sql): SQL script to query answers for various anaysis questions, export CSV files
+  (
+  
+  
 Data Engineering (DATA 403) - Professor Rembold, Willamette University (Spring 2022)
 
 Team members: Paul McSlarrow
